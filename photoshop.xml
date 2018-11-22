@@ -1,4 +1,4 @@
-   <b:defaultmarkups>
+<b:defaultmarkups>
       <b:defaultmarkup type='Common'>
         <b:includable id='DefaultMeta'>
           <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
